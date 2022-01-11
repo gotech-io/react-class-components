@@ -1,0 +1,26 @@
+.toggle-button {
+  position: relative;
+  display: inline-block;
+  background-color: silver;
+  width: 120px;
+  height: 60px;
+  border-radius: 30px;
+}
+
+.toggle-button.active {
+  background-color: green;
+}
+
+.toggle-button .thingy {
+  position: absolute;
+  border-radius: 50%;
+  background-color: white;
+  width: 40%;
+  padding-top: 40%;
+  margin: 5%;
+}
+
+.toggle-button.active .thingy {
+  right: 0;
+  transition: 0.5s all;
+}
