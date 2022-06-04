@@ -11,15 +11,19 @@ These repositories are a part of a course led by [Doron Feldman](https://github.
    * Examples - [react-components](https://github.com/gotech-io/react-components)
    * Practice - [react-practice-01](https://github.com/gotech-io/react-practice-01)
 4. React Components - State & Lifecycle
-   * Examples - [react-state-lifecycle](https://github.com/gotech-io/react-state-lifecycle) ⬅ **You are here**
+   * Examples - [react-state-lifecycle](https://github.com/gotech-io/react-state-lifecycle)
    * Practice - [react-practice-02](https://github.com/gotech-io/react-practice-02)
-5. React Context
+5. React Components - Class Components
+   * Examples - [react-class-components](https://github.com/gotech-io/react-class-components) ⬅ **You are here**
+6. React Components - Error Boundaries
+   * Examples - [react-error-boundaries](https://github.com/gotech-io/react-error-boundaries)
+7. React Context
    * Examples - [react-context](https://github.com/gotech-io/react-context)
    * Practice - [react-practice-03](https://github.com/gotech-io/react-practice-03)
-6. Styling in React
+8. Styling in React
    * Examples - [react-styling](https://github.com/gotech-io/react-styling)
    * Practice - [react-practice-04](https://github.com/gotech-io/react-practice-04)
-7. React Routing
+9. React Routing
    * Examples - [react-routing](https://github.com/gotech-io/react-routing)
    * Practice - [react-practice-05](https://github.com/gotech-io/react-practice-05)
 
