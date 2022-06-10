@@ -3,6 +3,7 @@ import { useEffect, useState } from 'react';
 
 const IntervalCounter = ({ intervalMilliseconds, shouldRun }) => {
   const [count, setCount] = useState(0);
+  const [someOtherState, setsomeOtherState] = useState('some other state');
 
   useEffect(() => {
     if (shouldRun) {

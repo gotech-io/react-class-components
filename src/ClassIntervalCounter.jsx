@@ -9,6 +9,7 @@ class ClassIntervalCounter extends Component {
       count: 0,
       someOtherState: 'some other state', // In class components, state is merged
     };
+
     this.resetCount = this.resetCount.bind(this);
   }
 
